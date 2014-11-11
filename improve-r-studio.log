@@ -1,0 +1,10 @@
+True intellisense/autocomplete for variables used in R script code
+Offer static type check for functions output/input
+Remote execution of local code with live feedback
+Suggest code optimizations of current scripts
+Surface code patterns that improve code efficiency/ execution time and readability
+Code templates for most common tasks
+Function that creates a final/publish/production ready file by putting together in one file/project/assembly all functions, required libraries, associated files
+Improved support loading functionality from native DLLs
+Code refactorings
+Performance analysis of running code(cyclomatic complexity and memory consumption)
