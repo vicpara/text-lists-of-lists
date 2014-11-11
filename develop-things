@@ -1,0 +1,31 @@
+a hash table
+a concurent hash table
+mechanism for logging messages
+publish/subscriber message mechanism
+a record index inside a file
+mecanism for MVVM, MVC
+dependency injection mechanism/IoC
+a message pump
+draw a clock unsing ascii
+manipulate raw pixels inside an image
+move visual objects on the screen
+programatically draw objects on the screen
+build a toy web server
+create a database
+perform inner join on their own DB
+create a language interpretor
+build a caching layer
+create an HTML parser
+create a file parser
+do a binary serializer
+do a binary deserializer
+write binary data directly in file
+read binary data directly from file
+crawl a website
+generate a random number
+create a hashing function
+implement basic statistics
+implement basic linear algebra
+build a particle collider simulator
+create a small game
+
